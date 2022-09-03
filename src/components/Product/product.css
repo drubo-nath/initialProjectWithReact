@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    padding:10px;
+    margin: 5px;
+    border-bottom: 1px solid lightgray;
+}
+.product-name{
+    font-weight: 400;
+    color: rgb(10, 10, 222);
+    
+}
+.product-inside{
+    padding: 10px;
+    margin: 5px;
+}
+.main-button{
+    width: 130px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: rgb(237, 201, 38);
+    border-radius: 5px;
+    
+}
+.main-button:hover{
+    border: 3px solid gray;
+}

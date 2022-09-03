@@ -1,0 +1,1 @@
+## Here I have used react as a framework , firebase for authentication , react-router for route management.

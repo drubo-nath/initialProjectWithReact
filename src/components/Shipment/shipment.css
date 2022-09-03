@@ -1,0 +1,20 @@
+.ship-form input{
+    display: block;
+    margin-left: 100px;
+    margin-top: 25px;
+    padding: 5px;
+}
+.error{
+    color: red;
+    margin-left: 100px;
+    font-weight: 600;
+}
+.btn{
+    background-color: rgb(19, 19, 68);
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+}
+.ship-form h1{
+    margin-left: 80px;
+}
